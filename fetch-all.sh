@@ -9,4 +9,5 @@ done
 
 # mg-tools is always in master branch
 git clone git@github.com:VincentWei/mg-tools.git
-
+$ cd scripts-build-minigui-all
+    $ ./fetch-all.sh
