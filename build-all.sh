@@ -14,3 +14,4 @@ for comp in mgutils mgplus mgeff mgncs mg-samples mgncs4touch mg-tools cell-phon
     make -j$nr_jobs; sudo make install
     cd ..
 done
+    $ git clone git@github.com:VincentWei/build-minigui-3.2.git
